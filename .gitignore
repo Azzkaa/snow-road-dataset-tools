@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+node_modules/

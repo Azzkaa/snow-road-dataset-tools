@@ -1,0 +1,285 @@
+{
+  "files": [
+    {
+      "path": "work/consolidate_replacements/move.py",
+      "sha256": "ac7bb67342842bd8ef9c3f7c175e54ad881743cd680a4b076820663e0e3a9508",
+      "bytes": 1958
+    },
+    {
+      "path": "work/consolidate_snow/move.py",
+      "sha256": "a1bc784bccdafa705debdc88853193fc33aa2d1638eae8c830a5f4715a66f799",
+      "bytes": 1388
+    },
+    {
+      "path": "work/github_publication/prepare.py",
+      "sha256": "db30585405080c06ba349e803a81fcc0b53971c5f267aae037483513e1b20c53",
+      "bytes": 6556
+    },
+    {
+      "path": "work/mask_review91/finalize.py",
+      "sha256": "6741c2efcad45c0cfa8b8f73b57d7530cbd3b03380effbce7ad7609b8c2a9a3e",
+      "bytes": 3114
+    },
+    {
+      "path": "work/mask_review91/prepare_masks.py",
+      "sha256": "33c7962a6c1cf00b1f3c3f97feb37d41f2e3ece61ee56e00232d4e48d8d63389",
+      "bytes": 4404
+    },
+    {
+      "path": "work/mask_review91/review_revisions_server.py",
+      "sha256": "f63e3255202fe2f2b5d53d3c0fe0804d18f5a377b8c70f2ff09b76d3f199dfb1",
+      "bytes": 3873
+    },
+    {
+      "path": "work/mask_review91/review_server.py",
+      "sha256": "a7499db70364f62e485644345bb030c7f9c685737250a90535429b313c084456",
+      "bytes": 3481
+    },
+    {
+      "path": "work/mask_review91/review_side_lines_server.py",
+      "sha256": "523c08e4a1c15891a9d1e7bec178ee4f675174f0edf2bdafe1b2b4f49a77b6a1",
+      "bytes": 3844
+    },
+    {
+      "path": "work/package_pairs/create.py",
+      "sha256": "47dc8be26a328d1182a449b98a0eca73f041303c7f91fc167ed85b6b072c599c",
+      "bytes": 3704
+    },
+    {
+      "path": "work/snow_approved91/compose.py",
+      "sha256": "656583c4b8ff46549f33c02081634ec69119ca117b6fe49753e603415dc97d21",
+      "bytes": 1873
+    },
+    {
+      "path": "work/snow_approved91/generate.py",
+      "sha256": "99b7bedccbb4f7be67167d21bb98c0d8cce22e2562b5ad30ec2049a74e29b0b3",
+      "bytes": 6287
+    },
+    {
+      "path": "work/snow_approved91/prepare.py",
+      "sha256": "b22fe53005a5fe96a4c148512ac568fdb66976c00e0f8aed9ea62306f129dafa",
+      "bytes": 2178
+    },
+    {
+      "path": "work/snow_approved91/progress_server.py",
+      "sha256": "fcce0f128f6e80bedf4b2c5aecf1d66f23854eedc4254fca543d9a8da569f4f9",
+      "bytes": 6238
+    },
+    {
+      "path": "work/snow_approved91/run.py",
+      "sha256": "708a68c7f781d5ee251c6b0ba8fe3251067e183f6aa50b73c2a329ac6879dc2d",
+      "bytes": 738
+    },
+    {
+      "path": "work/snow_batch500/compose.py",
+      "sha256": "b11bd63b3960d7ec79014a4bbb5c357868796a95b2af34227f24d7abf8ed9d7e",
+      "bytes": 1541
+    },
+    {
+      "path": "work/snow_batch500/generate.py",
+      "sha256": "fd70c94beb2bf81a6b95ead0f2a1ad1fa6e1481fb49d9506c26e84cf5993b503",
+      "bytes": 6313
+    },
+    {
+      "path": "work/snow_batch500/prepare.py",
+      "sha256": "65bbc509caa2e3802805bd4648088acae1463f43ce548ae7bbb8a94803ca7dd9",
+      "bytes": 2981
+    },
+    {
+      "path": "work/snow_batch500/progress_server.py",
+      "sha256": "8af279c6d08376a261f2bc93dcc3a4a943d08bf20895e3c4bb085feff0b17662",
+      "bytes": 5151
+    },
+    {
+      "path": "work/snow_batch500/run.py",
+      "sha256": "746948fe6fb04c8ae406cab3b21d8c0abcf1fb2e2cd6cdf0f3f9d778842378fe",
+      "bytes": 632
+    },
+    {
+      "path": "work/snow_batch_1001_1500/compose.py",
+      "sha256": "4f5f322d54a3b796e4db4f712b8d623aa4b4df562d09fbae3c128ddca7f9751e",
+      "bytes": 1545
+    },
+    {
+      "path": "work/snow_batch_1001_1500/generate.py",
+      "sha256": "966c50dd94f4a51dab533b4c89a49ff7764630d01a25705b5f3002662474e638",
+      "bytes": 6327
+    },
+    {
+      "path": "work/snow_batch_1001_1500/prepare.py",
+      "sha256": "e02959df8d2e1076d41f785cb8ad9b4ab9eb244fa883e238fb31d6c222672f0b",
+      "bytes": 5353
+    },
+    {
+      "path": "work/snow_batch_1001_1500/progress_server.py",
+      "sha256": "3c506f5b9441133a7fd45632af56adfec1ca398ed986e37d52cbe0a5d713d357",
+      "bytes": 6183
+    },
+    {
+      "path": "work/snow_batch_1001_1500/start_after_masks.py",
+      "sha256": "cbac18a5ffd218fe6ad182b86a202c921b58ef15a125672fd7088e669c4e59bc",
+      "bytes": 521
+    },
+    {
+      "path": "work/snow_batch_1501_2000/compose.py",
+      "sha256": "69b85bbe395d7ab47352ca01e9abb8f55b38ca221c9eedad4185deaa11734d45",
+      "bytes": 1545
+    },
+    {
+      "path": "work/snow_batch_1501_2000/generate.py",
+      "sha256": "ac843efe72c7a94c6dadecf7aecc10581f9a2cf4b0a2ebe98dec4e99442fec25",
+      "bytes": 6327
+    },
+    {
+      "path": "work/snow_batch_1501_2000/prepare.py",
+      "sha256": "8f12a1b9f361a5e11dfc8f2540c7b019a6862c1cdfb2e2ad3ea952e57b975987",
+      "bytes": 5494
+    },
+    {
+      "path": "work/snow_batch_1501_2000/progress_server.py",
+      "sha256": "9814c1acfdb9ef2a217e1e276c4b4bc8ff82b2deb13dd3b433e4656dcc1598a5",
+      "bytes": 6183
+    },
+    {
+      "path": "work/snow_batch_1501_2000/start_after_masks.py",
+      "sha256": "cbac18a5ffd218fe6ad182b86a202c921b58ef15a125672fd7088e669c4e59bc",
+      "bytes": 521
+    },
+    {
+      "path": "work/snow_batch_2001_2500/compose.py",
+      "sha256": "4f1e1f4158b14f44c2afd9e4be2fe90cad21c944cdeab309a8e5a8195e3b908e",
+      "bytes": 1545
+    },
+    {
+      "path": "work/snow_batch_2001_2500/generate.py",
+      "sha256": "2eff9b961e3e14cf4d8e7ee993d536b0ad74484b9a47de03e4895032e9786f1a",
+      "bytes": 6327
+    },
+    {
+      "path": "work/snow_batch_2001_2500/prepare.py",
+      "sha256": "a6ac301391d2c8c4ccd52cdc7e8253807dd14e59d384ae6fe737b71ff1ca552e",
+      "bytes": 5635
+    },
+    {
+      "path": "work/snow_batch_2001_2500/progress_server.py",
+      "sha256": "ba111032f1fa9fe5dee88eb11bb03462aa211523e8c6cdc78d31fd0a984456a9",
+      "bytes": 6183
+    },
+    {
+      "path": "work/snow_batch_2001_2500/start_after_masks.py",
+      "sha256": "cbac18a5ffd218fe6ad182b86a202c921b58ef15a125672fd7088e669c4e59bc",
+      "bytes": 521
+    },
+    {
+      "path": "work/snow_batch_next500/compose.py",
+      "sha256": "4a26cabaa2091573cd04899ba0adc97b428cbb24ed0ace9b2b7e31fcd9ce9c26",
+      "bytes": 1545
+    },
+    {
+      "path": "work/snow_batch_next500/generate.py",
+      "sha256": "d646d813c2a2a663e59898b73fc7d2f6841d019fe21c2548715999f17397426f",
+      "bytes": 6323
+    },
+    {
+      "path": "work/snow_batch_next500/prepare.py",
+      "sha256": "051b5c75e2c4689362ba648426ee65372ddd97fc0eabaae5c02e7fb368f0e131",
+      "bytes": 5212
+    },
+    {
+      "path": "work/snow_batch_next500/progress_server.py",
+      "sha256": "ee014c118f90c0bdcaf9ca495767bc9e6eabaae81636b0d778ac6cba58db625f",
+      "bytes": 6191
+    },
+    {
+      "path": "work/snow_batch_next500/run.py",
+      "sha256": "746948fe6fb04c8ae406cab3b21d8c0abcf1fb2e2cd6cdf0f3f9d778842378fe",
+      "bytes": 632
+    },
+    {
+      "path": "work/snow_batch_next500/start_after_masks.py",
+      "sha256": "cbac18a5ffd218fe6ad182b86a202c921b58ef15a125672fd7088e669c4e59bc",
+      "bytes": 521
+    },
+    {
+      "path": "work/snow_batch_remaining335/compose.py",
+      "sha256": "f04e2e42f74e9c77e23b003610273ea389866bc86aaff343d3f3579c017f8645",
+      "bytes": 1540
+    },
+    {
+      "path": "work/snow_batch_remaining335/generate.py",
+      "sha256": "75224fe4c2b58a82c909031e28edfaa5a6af0f0f77552d18679962020601e97e",
+      "bytes": 6333
+    },
+    {
+      "path": "work/snow_batch_remaining335/prepare.py",
+      "sha256": "a6b91c6be5ea805cd1b29aeb4632597b7fd797483b061a82ed696cf642ee71b6",
+      "bytes": 5802
+    },
+    {
+      "path": "work/snow_batch_remaining335/progress_server.py",
+      "sha256": "7e5f7e508b94988f0de1864bc92d8d6c1e3921dd20b95c8ac62929e90e1c7763",
+      "bytes": 6178
+    },
+    {
+      "path": "work/snow_batch_remaining335/start_after_masks.py",
+      "sha256": "241b27ee0a52dad4727c2fec31a0f7fb056e94bff86c9268032fa8115e2d8b26",
+      "bytes": 521
+    },
+    {
+      "path": "work/snow_replacements820/compose.py",
+      "sha256": "7b5387a46cd08e63fe434bc74d898f3b5a80bca95a5f039e7b70ef4a3fa7bff3",
+      "bytes": 1540
+    },
+    {
+      "path": "work/snow_replacements820/compose_refined.py",
+      "sha256": "16833a3577035388b359585f297cb386a8560ca69e64f105c31d95e4b01e1092",
+      "bytes": 3400
+    },
+    {
+      "path": "work/snow_replacements820/generate.py",
+      "sha256": "8aac9a56b81f1e88cc97953d5e3b71b8788712420b2ae140d66f416a16e716d1",
+      "bytes": 6308
+    },
+    {
+      "path": "work/snow_replacements820/prepare.py",
+      "sha256": "2e34fc7145775df3012af440b05e49998bb88e2fbf2f882fdbc453f249398af7",
+      "bytes": 4622
+    },
+    {
+      "path": "work/snow_replacements820/progress_server.py",
+      "sha256": "4be3e6b76a585ce61d029a82366b022f7828edc21d39ae9e8dbf83c817e562b0",
+      "bytes": 6238
+    },
+    {
+      "path": "work/snow_replacements820/reflection_guard.py",
+      "sha256": "53d10d401cc44840c319062cbec16c4af3f8174e26bc3d40c4d799cf72960324",
+      "bytes": 1603
+    },
+    {
+      "path": "work/snow_replacements820/run_replacements.py",
+      "sha256": "1e97e3fd9a4f42e81f69b17905a56672c9a520d91c6b4cbc37abe2a43f5a6d3e",
+      "bytes": 595
+    },
+    {
+      "path": "work/usb_move/format_usb_guarded.py",
+      "sha256": "3c44fbcce519b068c0448762200e6acb1b991d1be1c089664ccb635eeca3a59e",
+      "bytes": 1980
+    },
+    {
+      "path": "work/usb_move/monitor.py",
+      "sha256": "f2c0517bbc8834f5ed6d864514dda5b1108f00dce96c32fb6bcd681bbaa34d85",
+      "bytes": 1224
+    },
+    {
+      "path": "work/usb_move/move_all.py",
+      "sha256": "eff8f4edf9bee25022e850eb248a942537e20548c9e8bed5a50ba6424d455d10",
+      "bytes": 3950
+    },
+    {
+      "path": "work/usb_move/move_pairs.py",
+      "sha256": "c9827d698444c54ec5629b262ed26b9e73c04be1acc265474a9b6b3c08a971ca",
+      "bytes": 2836
+    }
+  ],
+  "excluded": "datasets, annotations, pretrained weights, checkpoints, environments, secrets, internal handoffs; public text paths anonymized"
+}
